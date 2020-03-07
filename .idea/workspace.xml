@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26d7da6-52ea-4e51-9d52-499b62e99fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a3.py" beforeDir="false" afterPath="$PROJECT_DIR$/a3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YSOQBLimaR3UuNA2Fd0nekCqMF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +34,56 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.a3">
+    <configuration name="a3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cmpt-310-a3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cmpt-310-a3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a3" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,16 +108,70 @@
       <option name="presentableId" value="Default" />
       <updated>1582932511269</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit!">
+      <created>1582932641281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582932641281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit!" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1582932641096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582932641096" />
+    <state width="1419" height="267" key="GridCell.Tab.0.bottom" timestamp="1583552318254">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583550019942" />
+    <state width="1419" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583552318254" />
+    <state width="1419" height="267" key="GridCell.Tab.0.center" timestamp="1583552318253">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.center/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583550019940" />
+    <state width="1419" height="267" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583552318253" />
+    <state width="1419" height="267" key="GridCell.Tab.0.left" timestamp="1583552318252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.left/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583550019939" />
+    <state width="1419" height="267" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583552318252" />
+    <state width="1419" height="267" key="GridCell.Tab.0.right" timestamp="1583552318254">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="270" key="GridCell.Tab.0.right/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583550019941" />
+    <state width="1419" height="267" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583552318254" />
     <state x="221" y="73" key="SettingsEditor" timestamp="1582932558141">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="221" y="73" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1582932558141" />
-    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1582932524851">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582932645427">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582932645427" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1583445497508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583445497508" />
     <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1582932524851" />
+    <state x="0" y="0" width="1440" height="900" key="dock-window-1" timestamp="1583552245260">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="-1194" y="66" width="1194" height="834" maximized="true" key="dock-window-1/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583549400714" />
+    <state x="-1194" y="66" width="1194" height="834" key="dock-window-1/-1194.66.1194.834/0.23.1440.823@0.23.1440.823" timestamp="1583525592427" />
+    <state x="-1194" y="89" width="1194" height="811" maximized="true" key="dock-window-1/-1194.89.1194.811/0.0.1440.846@0.0.1440.846" timestamp="1583448360943" />
+    <state x="-1194" y="89" width="1194" height="811" maximized="true" key="dock-window-1/-1194.89.1194.811/0.23.1440.823@0.23.1440.823" timestamp="1583457538905" />
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1583550236472" />
+    <state x="0" y="0" width="1440" height="900" key="dock-window-1/0.23.1440.823@0.23.1440.823" timestamp="1583552245256" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582944033151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582944033151" />
   </component>
 </project>
