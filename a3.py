@@ -158,7 +158,6 @@ currGame = TicTacToe() # global variable
     The simulation is processed on a separate game object
         which is a deepCopy of the current game"""
 def MCTS_trial(position):
-    copyGame = TicTacToe()
     copyGame = copy.deepcopy(currGame)
     copyGame.make_move(position, copyGame.currentPlayer)
     copyGame.switch_player()
