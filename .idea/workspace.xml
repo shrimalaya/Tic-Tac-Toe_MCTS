@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26d7da6-52ea-4e51-9d52-499b62e99fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a3.py" beforeDir="false" afterPath="$PROJECT_DIR$/a3.py" afterDir="false" />
     </list>
@@ -131,20 +130,28 @@
       <option name="project" value="LOCAL" />
       <updated>1583559990369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added readme.txt">
+      <created>1583564284001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583564284001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit!" />
     <MESSAGE value="Complete game TIC TAC TOE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete game TIC TAC TOE" />
+    <MESSAGE value="Added readme.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme.txt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1583559990193">
+    <state x="344" y="52" key="CommitChangelistDialog2" timestamp="1583564283684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="344" y="52" key="CommitChangelistDialog2/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583559990193" />
+    <state x="344" y="52" key="CommitChangelistDialog2/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583564283684" />
     <state x="344" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583552501611" />
     <state width="1419" height="182" key="GridCell.Tab.0.bottom" timestamp="1583564092420">
       <screen x="0" y="0" width="1440" height="900" />
@@ -170,15 +177,16 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="221" y="73" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1582932558141" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1583559993160">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1583564286034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583559993160" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583564286034" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583552504933" />
-    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1583564266088">
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1585450389010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1583564266088" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/-1194.66.1194.834/0.0.1440.900@0.0.1440.900" timestamp="1584738736031" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585450389010" />
     <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1582932524851" />
     <state x="0" y="0" width="1440" height="900" key="dock-window-1" timestamp="1583552245260">
       <screen x="0" y="23" width="1440" height="823" />

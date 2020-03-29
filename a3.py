@@ -149,7 +149,7 @@ class TicTacToe:
 # End of CLASS
 # _________________________________________________________________________
 
-DEPTH = 900 # Depth of Monte Carlo tree search
+DEPTH = 1000 # Depth of Monte Carlo tree search
 currGame = TicTacToe() # global variable
 
 
